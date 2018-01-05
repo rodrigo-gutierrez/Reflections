@@ -10,3 +10,7 @@ It is required so that Git can store all of its data.
 The staging area can be thought as a transition area between what is in the working directory and what is tracked in the repo.
 The staging area contains files that will be commit into the repo, while the working directory contains everything in the folder.
 The staging area offers a way to separate what files will be commit and which won't.
+
+- How can you use the staging area to make sure you have one commit per logical change?
+
+The staging area can be used to separate out files with changes into those that will be commit or not.
