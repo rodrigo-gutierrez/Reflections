@@ -31,4 +31,3 @@ Because this new commit will have two parent commits, we represent this by drawi
 - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 Git's automatic merging is useful most of the time when changes take place on different parts of the code, and can be assumed to be unambiguous. This saves a lot of time that would have been spent reviewing each change, and most of the time should not break code.
-
