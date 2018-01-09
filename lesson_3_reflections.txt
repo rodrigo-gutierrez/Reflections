@@ -4,3 +4,8 @@ Lesson 3
 
 When working from multiple computers or collaborating with other users.
 However, it makes sense to use a remote repository simply because of the risk of hardware failure/loss if a repository only exists locally.
+
+- Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Pulling changes from a remote might overwrite changes one has made locally.
+Therefore, pulling should be deliberate and it is prudent to have a clean working tree as well.
