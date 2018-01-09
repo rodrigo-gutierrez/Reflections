@@ -1,0 +1,6 @@
+Lesson 3
+
+- When would you want to use a remote repository rather than keeping all your work local?
+
+When working from multiple computers or collaborating with other users.
+However, it makes sense to use a remote repository simply because of the risk of hardware failure/loss if a repository only exists locally.
